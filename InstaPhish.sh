@@ -343,6 +343,6 @@ EOF
 }			
 kill_pid
 dependencies
-install_ngrok
+
 install_cloudflared
 main_menu
